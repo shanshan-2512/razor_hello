@@ -1,5 +1,6 @@
 html {
   font-size: 14px;
+  background-color: rgba(161, 82, 144, 0.788);
 }
 
 @media (min-width: 768px) {
